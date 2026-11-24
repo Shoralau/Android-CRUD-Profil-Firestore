@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1081966647866",
+    "project_id": "latihan02-6a9c6",
+    "storage_bucket": "latihan02-6a9c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081966647866:android:b8772f016890dcb1423303",
+        "android_client_info": {
+          "package_name": "com.cindyvalencia.latihanfirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081966647866-g3pg09p7a698kbtutj85afm2j64qr2c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cindyvalencia.latihanfirestore",
+            "certificate_hash": "e5a96105c7065aad1db4f8d1b519d74e0f52f396"
+          }
+        },
+        {
+          "client_id": "1081966647866-9m113lrm10o2ho7f8um4ckofbpl4ak50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrTUN9Ztnpjqha1hSU6-I5YtjTCobVRNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081966647866-9m113lrm10o2ho7f8um4ckofbpl4ak50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
